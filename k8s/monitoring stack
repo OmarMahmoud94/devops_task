@@ -1,0 +1,2 @@
+we can use this helm chart directly : 
+https://github.com/prometheus-community/helm-charts/blob/main/charts/kube-prometheus-stack/README.md
